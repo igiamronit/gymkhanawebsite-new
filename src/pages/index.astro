@@ -42,6 +42,7 @@ import esummitnew from "../images/esummitnewlogo.png";
   disableAnimation={false}
 >
   <Loader />
+  <Loader />
   <section
     class="h-[100vh] w-full relative landing overflow-hidden hostel-container"
   >
@@ -123,6 +124,7 @@ import esummitnew from "../images/esummitnewlogo.png";
   <div class="py-8 text-white flex flex-col items-start lg:mx-40 md:mx-20">
     <!-- Adjusted margin-left (ml-5) -->
     <h2 class="text-4xl p-5 font-bold md:text-5xl md:p-7 section-animate-header">Upcoming Events</h2>
+    <h2 class="text-4xl p-5 font-bold md:text-5xl md:p-7 section-animate-header">Upcoming Events</h2>
     <Timeline />
   </div>
 
@@ -144,7 +146,22 @@ import esummitnew from "../images/esummitnewlogo.png";
     class="lg:mx-40 mx-20 my-5"
     style="height:4px;border-width:0;color:#B74224;background-color:#B74224"
   />
+
   <section class="text-white lg:mx-40 md:mx-20 flex flex-col justify-center">
+    <h2 class="lg:text-5xl md:text-4xl text-3xl font-bold p-7 pb-0 section-animate-header">
+      Gallery
+    </h2>
+    <div class="py-8">
+      <Gallery client:load />
+    </div>
+  </section>
+
+  <hr
+    class="lg:mx-40 mx-20 my-5"
+    style="height:4px;border-width:0;color:#B74224;background-color:#B74224"
+  />
+  <section class="text-white lg:mx-40 md:mx-20 flex flex-col justify-center">
+    <h2 class="lg:text-5xl md:text-4xl text-3xl font-bold p-7 pb-0 section-animate-header">
     <h2 class="lg:text-5xl md:text-4xl text-3xl font-bold p-7 pb-0 section-animate-header">
       Councils
     </h2>
@@ -190,6 +207,7 @@ import esummitnew from "../images/esummitnewlogo.png";
         />
       </div>
     </div>
+    <h2 class="lg:text-5xl md:text-4xl text-3xl font-bold p-7 pb-0 section-animate-header">Clubs</h2>
     <h2 class="lg:text-5xl md:text-4xl text-3xl font-bold p-7 pb-0 section-animate-header">Clubs</h2>
     <div class="flex justify-center">
       <div
@@ -252,6 +270,7 @@ import esummitnew from "../images/esummitnewlogo.png";
         />
       </div>
     </div>
+    <h2 class="lg:text-5xl md:text-4xl text-3xl font-bold p-7 pb-0 section-animate-header">
     <h2 class="lg:text-5xl md:text-4xl text-3xl font-bold p-7 pb-0 section-animate-header">
       Events and fests
     </h2>
