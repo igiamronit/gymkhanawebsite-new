@@ -54,109 +54,109 @@ const clubLogos = {
 const coords = {
   infocus: [
     {
-      name: "Uttej",
-      email: "ms21btech11016@iith.ac.in",
-      position: "Coordinator",
+      name: "Abhiram",
+      email: "",
+      position: "Head",
     },
-    {
-      name: "Shane Ali",
-      email: "me21btech11046@iith.ac.in",
-      position: "Coordinator",
-    },
-    {
-      name: "Sahil Kushwaha ",
-      email: "ch22btech11030@iith.ac.in",
-      position: "Coordinator",
-    },
+    // {
+    //   name: "Shane Ali",
+    //   email: "me21btech11046@iith.ac.in",
+    //   position: "Coordinator",
+    // },
+    // {
+    //   name: "Sahil Kushwaha ",
+    //   email: "ch22btech11030@iith.ac.in",
+    //   position: "Coordinator",
+    // },
   ],
   btl: [
     {
-      name: "Snehil Singh",
-      email: "ee22btech11050@iith.ac.in",
-      position: "Coordinator",
+      name: "Skgezhil",
+      email: "",
+      position: "Head",
     },
-    {
-      name: "Parlapalli Teja",
-      email: "Ic22btech11010@iith.ac.in",
-      position: "Coordinator",
-    },
-    {
-      name: "Kotichintala Aravind Siddhartha",
-      email: "ce21btech11021@iith.ac.in",
-      position: "Coordinator",
-    },
+    // {
+    //   name: "Parlapalli Teja",
+    //   email: "Ic22btech11010@iith.ac.in",
+    //   position: "Coordinator",
+    // },
+    // {
+    //   name: "Kotichintala Aravind Siddhartha",
+    //   email: "ce21btech11021@iith.ac.in",
+    //   position: "Coordinator",
+    // },
   ],
   shuffle: [
     {
-      name: "Shreyas Wankhede",
-      email: "ai21btech11028@iith.ac.in",
-      position: "Coordinator",
+      name: "Harini Kovuri",
+      email: "ms22btech11014@iith.ac.in",
+      position: "Head",
     },
-    {
-      name: "Diva Jaiwar",
-      email: "me21btech11014@iith.ac.in",
-      position: "Coordinator",
-    },
-    {
-      name: "Niha Maloth",
-      email: "es22btech11024@iith.ac.in",
-      position: "Coordinator",
-    },
+    // // {
+    // //   name: "Diva Jaiwar",
+    //   email: "me21btech11014@iith.ac.in",
+    //   position: "Coordinator",
+    // },
+    // {
+    //   name: "Niha Maloth",
+    //   email: "es22btech11024@iith.ac.in",
+    //   position: "Coordinator",
+    // },
   ],
   rang: [
     {
-      name: "Dibyanshu Kumar",
-      email: "ep21btech11011@iith.ac.in",
-      position: "Overall Coordinator",
+      name: "",
+      email: "",
+      position: "",
     },
-    {
-      name: "Pragya Yadav",
-      email: "ch21btech11023@iith.ac.in",
-      position: "Swaang Coordinator",
-    },
-    {
-      name: "Ashwin Kumar",
-      email: "ce21btech11008@iith.ac.in",
-      position: "Irshaad Coordinator",
-    },
-    {
-      name: "Karthik Nambiar",
-      email: "ep21btech11015@iith.ac.in",
-      position: "Awwfense Coordinator",
-    },
+    // {
+    //   name: "Pragya Yadav",
+    //   email: "ch21btech11023@iith.ac.in",
+    //   position: "Swaang Coordinator",
+    // },
+    // {
+    //   name: "Ashwin Kumar",
+    //   email: "ce21btech11008@iith.ac.in",
+    //   position: "Irshaad Coordinator",
+    // },
+    // {
+    //   name: "Karthik Nambiar",
+    //   email: "ep21btech11015@iith.ac.in",
+    //   position: "Awwfense Coordinator",
+    // },
   ],
   vibes: [
     {
-      name: "Tanishq Bhattacharjee",
-      email: "ms22btech11027@iith.ac.in",
-      position: "Coordinator",
+      name: "Venkat Raghav",
+      email: "ep23btech11035@iith.ac.in",
+      position: "Head",
     },
-    {
-      name: "Divya Mehul Rajparia",
-      email: "es22btech11013@iith.ac.in",
-      position: "Coordinator",
-    },
-    {
-      name: "Rishit D",
-      email: "cs21btech11053@iith.ac.in",
-      position: "Coordinator",
-    },
+    // {
+    //   name: "Divya Mehul Rajparia",
+    //   email: "es22btech11013@iith.ac.in",
+    //   position: "Coordinator",
+    // },
+    // {
+    //   name: "Rishit D",
+    //   email: "cs21btech11053@iith.ac.in",
+    //   position: "Coordinator",
+    // },
   ],
   gesture: [
     {
-      name: "Arthi GJ",
-      email: "bd21bdes11005@iith.ac.in",
-      position: "Coordinator",
+      name: "Abhinaba Das",
+      email: "ic24btech11001@iith.ac.in",
+      position: "Head",
     },
     {
-      name: "Anubhav Singh",
-      email: "ms21btech11008@iith.ac.in",
-      position: "Coordinator",
+      name: "Isha",
+      email: "",
+      position: "Head ",
     },
     {
-      name: "Avani Gupta",
-      email: "me21btech11007@iith.ac.in",
-      position: "Coordinator",
+      name: "Shashaank",
+      email: "ch23btech11009@iith.ac.in",
+      position: "Head ",
     },
   ],
   // beaumonde: [
@@ -167,52 +167,52 @@ const coords = {
   //   },
   // ],
   writingclub: [
-    {
-      name: "Swarnima Siddhartha",
-      email: "bd22bdes11017@iith.ac.in",
-      position: "Coordinator",
-    },
-    {
-      name: "Anek Anjireddy",
-      email: "ee22btech11007@iith.ac.in",
-      position: "Coordinator",
-    },
+    // {
+    //   name: "Swarnima Siddhartha",
+    //   email: "bd22bdes11017@iith.ac.in",
+    //   position: "Coordinator",
+    // },
+    // {
+    //   name: "Anek Anjireddy",
+    //   email: "ee22btech11007@iith.ac.in",
+    //   position: "Coordinator",
+    // },
   ],
   bmc: [
-    {
-      name: "Ananya Thakur",
-      email: "bd22bdes11002@iith.ac.in",
-      position: "Coordinator",
-    },
-    {
-      name: "Hitesh Donepudi",
-      email: "bm20btech11003@iith.ac.in",
-      position: "Coordinator",
-    },
+    // {
+    //   name: "Ananya Thakur",
+    //   email: "bd22bdes11002@iith.ac.in",
+    //   position: "Coordinator",
+    // },
+    // {
+    //   name: "Hitesh Donepudi",
+    //   email: "bm20btech11003@iith.ac.in",
+    //   position: "Coordinator",
+    // },
   ],
   quizclub: [
-    {
-      name: "Umair Parwez",
-      email: "ee22btech11054@iith.ac.in",
-      position: "Coordinator",
-    },
-    {
-      name: "Harshit Thakur",
-      email: "bm21btech11010@iith.ac.in",
-      position: "Coordinator",
-    },
+    // {
+    //   name: "Umair Parwez",
+    //   email: "ee22btech11054@iith.ac.in",
+    //   position: "Coordinator",
+    // },
+    // {
+    //   name: "Harshit Thakur",
+    //   email: "bm21btech11010@iith.ac.in",
+    //   position: "Coordinator",
+    // },
   ],
   debateclub: [
-    {
-      name: "Anirudh Saikrishnan",
-      email: "cs22btech11004@iith.ac.in",
-      position: "Coordinator",
-    },
-    {
-      name: "Arsh Arora",
-      email: "bm22btech11004@iith.ac.in",
-      position: "Coordinator",
-    },
+    // {
+    //   name: "Anirudh Saikrishnan",
+    //   email: "cs22btech11004@iith.ac.in",
+    //   position: "Coordinator",
+    // },
+    // {
+    //   name: "Arsh Arora",
+    //   email: "bm22btech11004@iith.ac.in",
+    //   position: "Coordinator",
+    // },
   ],
 };
 
@@ -334,9 +334,8 @@ function Cultural() {
           className={`lg:col-span-1 hidden text-2xl lg:flex lg:flex-col gap-3 [&>li]:cursor-pointer bg-[#2F2F2F] p-8 flex-col justify-center items-start rounded-xl`}
         >
           <li
-            className={`px-4 py-2 rounded-md ${
-              club === "infocus" ? "bg-[#B74224]" : "text-opacity-40"
-            }`}
+            className={`px-4 py-2 rounded-md ${club === "infocus" ? "bg-[#B74224]" : "text-opacity-40"
+              }`}
             onClick={() => {
               setClub("infocus");
             }}
@@ -344,9 +343,8 @@ function Cultural() {
             Infocus
           </li>
           <li
-            className={`px-4 py-2 rounded-md ${
-              club === "litsoc" ? "bg-[#B74224]" : "text-opacity-40"
-            }`}
+            className={`px-4 py-2 rounded-md ${club === "litsoc" ? "bg-[#B74224]" : "text-opacity-40"
+              }`}
             onClick={() => {
               setClub("litsoc");
             }}
@@ -354,9 +352,8 @@ function Cultural() {
             Litsoc
           </li>
           <li
-            className={`px-4 py-2 rounded-md ${
-              club === "vibes" ? "bg-[#B74224]" : "text-opacity-40"
-            }`}
+            className={`px-4 py-2 rounded-md ${club === "vibes" ? "bg-[#B74224]" : "text-opacity-40"
+              }`}
             onClick={() => {
               setClub("vibes");
             }}
@@ -364,9 +361,8 @@ function Cultural() {
             Vibes
           </li>
           <li
-            className={`px-4 py-2 rounded-md ${
-              club === "rang" ? "bg-[#B74224]" : "text-opacity-40"
-            }`}
+            className={`px-4 py-2 rounded-md ${club === "rang" ? "bg-[#B74224]" : "text-opacity-40"
+              }`}
             onClick={() => {
               setClub("rang");
             }}
@@ -374,9 +370,8 @@ function Cultural() {
             Rang De Manch
           </li>
           <li
-            className={`px-4 py-2 rounded-md ${
-              club === "btl" ? "bg-[#B74224]" : "text-opacity-40"
-            }`}
+            className={`px-4 py-2 rounded-md ${club === "btl" ? "bg-[#B74224]" : "text-opacity-40"
+              }`}
             onClick={() => {
               setClub("btl");
             }}
@@ -384,9 +379,8 @@ function Cultural() {
             Behind The Lens
           </li>
           <li
-            className={`px-4 py-2 rounded-md ${
-              club === "shuffle" ? "bg-[#B74224]" : "text-opacity-40"
-            }`}
+            className={`px-4 py-2 rounded-md ${club === "shuffle" ? "bg-[#B74224]" : "text-opacity-40"
+              }`}
             onClick={() => {
               setClub("shuffle");
             }}
@@ -394,9 +388,8 @@ function Cultural() {
             Shuffle
           </li>
           <li
-            className={`px-4 py-2 rounded-md ${
-              club === "gesture" ? "bg-[#B74224]" : "text-opacity-40"
-            }`}
+            className={`px-4 py-2 rounded-md ${club === "gesture" ? "bg-[#B74224]" : "text-opacity-40"
+              }`}
             onClick={() => {
               setClub("gesture");
             }}
@@ -405,9 +398,8 @@ function Cultural() {
           </li>
         </ul>
         <div
-          className={`lg:col-span-4 col-span-6 grid grid-cols-6 gap-6 lg:gap-[2rem] items-center relative z-0 ${
-            club === "litsoc" ? "hidden" : "block"
-          }`}
+          className={`lg:col-span-4 col-span-6 grid grid-cols-6 gap-6 lg:gap-[2rem] items-center relative z-0 ${club === "litsoc" ? "hidden" : "block"
+            }`}
         >
           <div className="lg:col-span-4 lg:text-[18px] col-span-full lg:row-span-full m-8">
             <p className="mt-8 justify-self-start">{desc}</p>
@@ -434,9 +426,8 @@ function Cultural() {
           </div>
         </div>
         <div
-          className={`lg:col-span-4 col-span-6 grid grid-cols-6 gap-6 lg:gap-[2rem] items-center relative ${
-            club === "litsoc" ? "block" : "hidden"
-          }`}
+          className={`lg:col-span-4 col-span-6 grid grid-cols-6 gap-6 lg:gap-[2rem] items-center relative ${club === "litsoc" ? "block" : "hidden"
+            }`}
         >
           <div className="lg:col-span-4 lg:text-[18px] col-span-full lg:row-span-full m-8">
             <p className="mt-8 justify-self-start">{clubs[1].desc}</p>
