@@ -34,6 +34,7 @@ import Slider from "../components/slider.astro";
 import ClubCard from "../components/ClubCard.astro";
 import tedexwhite from "../images/tedexwhite.png";
 import esummitnew from "../images/esummitnewlogo.png";
+import BirdCursor from "../components/BirdCursor";
 ---
 
 <Layout
@@ -42,6 +43,7 @@ import esummitnew from "../images/esummitnewlogo.png";
   blackOn={false}
   disableAnimation={false}
 >
+  <BirdCursor client:only="react" />
   <Loader />
   <Loader />
   <section
