@@ -69,6 +69,7 @@ const updatedLinks: Link[] = [
   {
     parent: "Research Scholars",
     menuIndex: 4,
+    target: "_blank",
     href: "https://researchers-iith.netlify.app/",
   },
   { parent: "Student's Guide", menuIndex: 5, href: "/freshers-guide" },
